@@ -5,8 +5,6 @@ A write-up of my role on a university team project. The application's source cod
 ## Overview
 Candidflow is a role-based recruitment tracker (Django, PostgreSQL) deployed live on AWS, built by a four-person university team between July and September 2026.
 
-**Live demo (team deployment):** https://dmy7zm623g8ab.cloudfront.net/
-
 ## My role: Scrum Master
 - Facilitated 38 meetings (stand-ups, planning sessions and reviews) across two sprints.
 - Owned cost and infrastructure risks in the project's 32-item risk register.
